@@ -19,9 +19,8 @@ The server is running the following versions:
 
 ## Mod List
 
-| Mod Name |  |  |
-| :--- | :--- | :--- |
 | Almanac | BuildingWands | CarbonConfig |
+| :--- | :--- | :--- |
 | Clumps | CreateNumismatics | DnDesires |
 | EasyMagic | FarmersDelight | Jade |
 | NoChatReports | PuzzlesLib | ScalableLux |
