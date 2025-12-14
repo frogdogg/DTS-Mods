@@ -2,7 +2,7 @@
 [general]
   # Insert your Bot Token here!
   # DO NOT SHARE IT WITH ANYONE!
-  botToken = "MTQ0NDU0NTgwMzkyMTEzMzYwOQ.GfDGzj.-S16CDrU4Vn0KFBtAwi_jiA8tjGL8vaXOKE_mA"
+  botToken = ""
   # The channel ID where the bot will be working in
   botChannel = "1444095876430827682"
   # The bots status message
