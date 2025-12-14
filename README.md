@@ -6,8 +6,8 @@ Welcome to the official repository for the Drop The Steam! (DTS) modpack. This p
 
 To play this modpack, please follow these instructions:
 
-*   **Modrinth:** Download the latest release from our Modrinth page for the easiest installation.
-*   **Manual Installation:** If you are using a different mod loader, you can download the mods from the "Mods File Release" and replace your current `mods` folder.
+*   **Modrinth:** Download the latest [release](https://github.com/frogdogg/DTS-Mods/releases/tag/Modrinth) for the easiest installation.
+*   **Manual Installation:** If you are using a different mod loader, you can download the mods from [Here](https://github.com/frogdogg/DTS-Mods/tree/2a3b5a7065d474cba2386cee35c859ac7db71daa/Client/mods) and replace your current `mods` folder.
 
 ## Server Information
 
@@ -19,8 +19,6 @@ The server is running the following versions:
 
 ## Mod List
 
-| Mod Name | Mod Name | Mod Name |
-| :--- | :--- | :--- |
 | Almanac | BuildingWands | CarbonConfig |
 | Clumps | CreateNumismatics | DnDesires |
 | EasyMagic | FarmersDelight | Jade |
