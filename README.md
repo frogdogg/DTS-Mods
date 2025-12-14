@@ -19,7 +19,7 @@ The server is running the following versions:
 
 ## Mod List
 
-| Mod Name |
+| Mod Name |  |  |
 | :--- | :--- | :--- |
 | Almanac | BuildingWands | CarbonConfig |
 | Clumps | CreateNumismatics | DnDesires |
