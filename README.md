@@ -27,11 +27,16 @@ Choose one of the installation methods below. Each method is written as a short,
 
 
    ![Prism - Download](Help/Prism%20Install/Download.png)
-   2. Open Prism and Click **New Instance**
+2. Open Prism and Click **New Instance**
+
    ![Prism - New Instance](Help/Prism%20Install/NewInstance.png)
-   3. Click **Import** and select the downloaded pack file.
+
+3. Click **Import** and select the downloaded pack file.
+
    ![Prism - Pick File](Help/Prism%20Install/PickFile.png)
-   4. Now Press Ok To Save
+
+4. Now Press Ok To Save
+
    ![Prism - Save Instance](Help/Prism%20Install/SaveInstance.png)
 
 
